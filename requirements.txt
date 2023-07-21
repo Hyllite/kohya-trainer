@@ -28,6 +28,7 @@ gdown==4.7.1
 imjoy-elfinder==0.1.61
 dadaptation==1.5
 lion-pytorch==0.0.6
+prodigyopt
 # for network module
 # locon==0.0.4
 lycoris-lora==0.1.4
